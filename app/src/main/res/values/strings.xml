@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UIElement</string>
+    <string name="enable_phone_number">Enable Phone Number</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="last_name">Last Name</string>
+    <string name="age">Age:</string>
+    <string name="first_name">First Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="login">Login</string>
+    <string name="lastname">Last Name</string>
+    <string name="birthdate">Birthdate</string>
+    <string name="firstname">First Name</string>
+    <string name="phonenumber">Phone Number</string>
+    <string name="agee">Age</string>
+    <string name="email">Email</string>
+    <string name="select_your_birth_date">Select your birth date</string>
+</resources>
